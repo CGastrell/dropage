@@ -1,5 +1,6 @@
 # dropage
-Single minimal page served with express to test react components
+Single minimal page served with express to test react components. In this case, a page with an implementation of
+a custom Dropzone'd (via [react-dropzone](https://github.com/okonet/react-dropzone)) element for a simple and **not secure** file upload.
 
 ## Context
 I'm really enjoying playing around with [heatpack](https://github.com/insin/react-heatpack) for my first steps into
